@@ -1,0 +1,33 @@
+{
+  "name": "nlw_pocket_inorbit_api_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch --env-file .env  src/http/server.ts",
+    "seed": "tsx --env-file .env src/db/seed.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/node": "^22.14.1",
+    "drizzle-kit": "^0.30.6",
+    "nodemon": "^3.1.9",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "@paralleldrive/cuid2": "^2.2.2",
+    "dayjs": "^1.11.13",
+    "drizzle-orm": "^0.41.0",
+    "fastify": "^5.2.2",
+    "fastify-type-provider-zod": "^4.0.2",
+    "nlw_pocket_inorbit_api_node": "file:",
+    "pg": "^8.14.1",
+    "postgres": "^3.4.5",
+    "zod": "^3.24.2"
+  }
+}
