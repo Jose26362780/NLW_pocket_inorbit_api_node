@@ -104,7 +104,7 @@ npm run dev
 ## 🔗 Deploy 
 
 ![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
-![netlify](https://img.shields.io/badge/vercel-023?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 
 
