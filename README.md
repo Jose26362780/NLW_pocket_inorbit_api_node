@@ -5,14 +5,14 @@ Uma API de controle de metas semanais desenvolvido durante um evento de programa
 
 ## 🚀 Tecnologias Utilizadas
  
-  ![Zod](https://img.shields.io/badge/zod-000643?style=for-the-badge&logo=zod&logoColor=white)
- ![Biome](https://img.shields.io/badge/Biome-000320?style=for-the-badge&logo=Biome&logoColor=blue)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-345?style=for-the-badge&logo=Fastify&logoColor=white)
- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-123?style=for-the-badge&logo=drizzle&logoColor=green)
+ - ![Zod](https://img.shields.io/badge/zod-000643?style=for-the-badge&logo=zod&logoColor=white)
+ - ![Biome](https://img.shields.io/badge/Biome-000320?style=for-the-badge&logo=Biome&logoColor=blue)
+ - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ - ![Fastify](https://img.shields.io/badge/fastify-345?style=for-the-badge&logo=Fastify&logoColor=white)
+ - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ - ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-123?style=for-the-badge&logo=drizzle&logoColor=green)
 
 
 ---
